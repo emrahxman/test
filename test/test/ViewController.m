@@ -19,7 +19,7 @@
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
     
-    // ver 1.2
+    // emrah
 }
 
 - (void)didReceiveMemoryWarning
